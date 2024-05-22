@@ -6,3 +6,15 @@
 - The red-led light will start blinking and lcd will display the message “ALCOHOL DETECTED”
 - The DC-motor will stop depicting that the car engine has turned off.
 
+## Hardware Components
+- Raspberry-pi 3
+- Alcohol Detection Sensor MQ-3
+- DC motor 5v
+- Jumper wires
+- Breadboard
+- NEO 6M GPS Module
+- LED lights
+![model](https://github.com/avanig1834/Drunk-Drive-Detection_R-Pi/assets/128058633/fe6b2121-36f0-4170-8c24-575dfdf6bbbe)
+
+
+
