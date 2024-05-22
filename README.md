@@ -5,6 +5,7 @@
 - GPS will track location and send to concerned authorities whose number is saved in memory of R-pi.
 - The red-led light will start blinking and lcd will display the message “ALCOHOL DETECTED”
 - The DC-motor will stop depicting that the car engine has turned off.
+- dc motor will get 
 
 ## Hardware Components
 - Raspberry-pi 3
